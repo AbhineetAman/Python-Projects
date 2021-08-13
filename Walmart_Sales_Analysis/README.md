@@ -51,7 +51,7 @@ Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
 Basic Statistics tasks
 
-**_1.Which store has maximum sales
+**_1.Which store has maximum sales_**
 
 **_2.Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
 
