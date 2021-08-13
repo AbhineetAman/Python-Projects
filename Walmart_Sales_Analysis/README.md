@@ -65,11 +65,11 @@ Basic Statistics tasks
 
 
 
-**Statistical Model
+### Statistical Model
 
 1.For Store 1 – Build  prediction models to forecast demand
 
-**_Linear Regression – Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales._**
+**_Linear Regression – Utilize variables like date and Hypothesize if CPI, unemployment, and fuel price have any impact on sales._**
 
 Change dates into days by creating new variable.
 
